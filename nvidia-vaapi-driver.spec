@@ -1,6 +1,6 @@
 Name:           nvidia-vaapi-driver
-Version:        0.0.9
-Release:        2
+Version:        0.0.10
+Release:        1
 Summary:        Nvidia Driver for Video Acceleration (VA) API for Linux
 License:        MIT
 Group:          System/Libraries
